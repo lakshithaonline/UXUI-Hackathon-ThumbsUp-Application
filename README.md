@@ -1,5 +1,9 @@
-# Thumbs-up-Application
-There is a community called FOSS community in our university (NSBM Green University). They organized event called UX/UI Hackathon. That's a competition. So, we participated. They gave us a scenario. What we have to do is we have to design a mobile application for that scenario. They gave a several web applications to design the application. They are Figma, Photoshop, Sketch, Adobe xd, and Adobe illustrator. we can use only these web applications for design the mobile app. So, we choose "Figma". We completed that one day project very successfully with my team members.
+# FOSS Community UX/UI Hackathon
 
+This is a description of our successful participation in the FOSS Community UX/UI hackathon, organized by NSBM Green University. It was a competition where participants were given a scenario and had to design a mobile application using specific web applications such as Figma, Photoshop, Sketch, Adobe XD, and Adobe Illustrator.
 
-https://www.figma.com/file/5uUjmKN3u0h9pAXEVXof6z/Thumbs-up?node-id=0%3A1
+Our team selected Figma and completed the project within a day, successfully meeting the requirements of the scenario. You can check out our mobile app design here: 
+
+[Thumbs-up Figma Design Link](https://www.figma.com/file/5uUjmKN3u0h9pAXEVXof6z/Thumbs-up?node-id=0%3A1)
+
+Thank you for your interest in our project!
